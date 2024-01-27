@@ -1,5 +1,7 @@
 === Brinvex-Demo-Saml
+Fork of ```spring-projects/spring-security-samples```  with added example of service provider application integrated with Shibboleth.
 
+==== How to run
 - modify etc/hosts  ```127.0.0.1 <service_provider_host>```
 - review config properties
 - run BxSaml2LoginApplication
